@@ -2,10 +2,12 @@
 
 <h2> Cybersecurity Projects:</h2>
 
+- <b> Cloud Threat Detection and Analysis</b>
+  - [Microsoft Sentinel, Cloud-native SIEM analysis](https://github.com/TaiwoG1)
+- <b>Vulnerability Management</b>
+  - [Reduced critical vulnerabilities by 100% using Tennable](https://github.com/TaiwoG1)
 - <b> Active Directory Home Lab (SOC Home Lab)</b>
   - [SOC Home Lab](https://github.com/TaiwoG1)
-- <b>Vulnerability Management</b>
-  - [Reduced critical vulnerabilities by 100% using Qualys](https://github.com/TaiwoG1)
 - <b>SOC analyst Simulation</b>
   - [Investigated real-world security incidents in a simulated SOC environment](https://github.com/TaiwoG1)
   - [Monitored real-time security alerts](https://github.com/TaiwoG1)
