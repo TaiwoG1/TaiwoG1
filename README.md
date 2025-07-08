@@ -8,17 +8,10 @@
   - [Reduced critical vulnerabilities by 100% using Tennable](https://github.com/TaiwoG1/VulnerabilityManagement1/tree/main)
 - <b> Active Directory Home Lab (SOC Home Lab)</b>
   - [SOC Home Lab](https://github.com/TaiwoG1)
-- <b>SOC analyst Simulation</b>
-  - [Investigated real-world security incidents in a simulated SOC environment](https://github.com/TaiwoG1)
-  - [Monitored real-time security alerts](https://github.com/TaiwoG1)
-  - [performed triage](https://github.com/TaiwoG1)
-  - [Analyzed logs](https://github.com/TaiwoG1)
-  - [Detected threats](https://github.com/TaiwoG1)
-  - [investigated incidents in a simulated SOC environment](https://github.com/TaiwoG1)
-  - [Responding to cyber-attacks using SIEM and EDR tools](https://github.com/TaiwoG1)
+- <b>SOC analyst Home Lab Simulation</b>
+  - [Monitored & Investigated real-time security incidents in a simulated SOC environment](https://github.com/TaiwoG1)
 - <b>Security Risk Assessment</b>
-  - [Assess security risks on a network and reinforce network security](https://github.com/TaiwoG1)
-  - [Analyzed network layer communication using network protocol analyzer tool tcdump and Wireshark](https://github.com/TaiwoG1)
+  - [Analyzed network layer communication using network protocol analyzer tool Wireshark and tcpdump](https://github.com/TaiwoG1)
 - <b> Analysis of Network Hardening </b>
   - [Security risk assessment to analyze incidents](https://github.com/TaiwoG1)
  
