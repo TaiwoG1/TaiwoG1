@@ -5,7 +5,7 @@
 - <b> Cloud Threat Detection and Analysis</b>
   - [Microsoft Sentinel, Cloud-native SIEM analysis](https://github.com/TaiwoG1)
 - <b>Vulnerability Management</b>
-  - [Reduced critical vulnerabilities by 100% using Tennable](https://github.com/TaiwoG1)
+  - [Reduced critical vulnerabilities by 100% using Tennable]([https://github.com/TaiwoG1](https://github.com/TaiwoG1/VulnerabilityManagement1/tree/main))
 - <b> Active Directory Home Lab (SOC Home Lab)</b>
   - [SOC Home Lab](https://github.com/TaiwoG1)
 - <b>SOC analyst Simulation</b>
