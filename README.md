@@ -7,7 +7,7 @@
 - <b>Vulnerability Management</b>
   - [Reduced critical vulnerabilities by 100% using Tennable](https://github.com/TaiwoG1/VulnerabilityManagement1/tree/main)
 - <b> Active Directory Home Lab</b>
-  - [Active Directory and Internal Network Deployment](https://github.com/TaiwoG1)
+  - [Active Directory and Internal Network Deployment](https://github.com/TaiwoG1/ActiveDirectoryLab1)
 - <b>SOC analyst Home Lab Simulation</b>
   - [Monitored & Investigated real-time security incidents in a simulated SOC environment](https://github.com/TaiwoG1)
 - <b>Security Risk Assessment</b>
