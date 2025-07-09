@@ -3,7 +3,7 @@
 <h2> Cybersecurity Projects:</h2>
 
 - <b> Cloud Threat Detection and Analysis</b>
-  - [Microsoft Sentinel, Cloud-native SIEM analysis](https://github.com/TaiwoG1/CloudThreatDetectionAndAnalysis1/tree/main)
+  - [Microsoft Sentinel, Cloud-native SIEM analysis](https://github.com/TaiwoG1/CloudThreatDetectionAndAnalysis1)
 - <b>Vulnerability Management</b>
   - [Reduced critical vulnerabilities by 100% using Tennable](https://github.com/TaiwoG1/VulnerabilityManagement1/tree/main)
 - <b> Active Directory Home Lab</b>
