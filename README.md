@@ -18,7 +18,7 @@
 <h2> Software Development Projects:</h2>
 
 - <b>Game of Nim: User and Computer interactive</b>
-  - [Python game development](https://github.com/TaiwoG1/)
+  - [Python game development](https://github.com/TaiwoG1/GameOfNim)
 - <b>Education Course Registration System</b>
   - [School Courses registration app](https://github.com/TaiwoG1)
 
