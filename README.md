@@ -14,6 +14,14 @@
   - [Analyzed network layer communication using network protocol analyzer tool Wireshark and tcpdump](https://github.com/TaiwoG1/NetworkTrafficAnalysis-Wireshark1)
 - <b> Analysis of Network Hardening </b>
   - [Security risk assessment to analyze incidents](https://github.com/TaiwoG1)
+
+<h2> Software Development Projects:</h2>
+
+- <b>Game of Nim: User and Computer interactive</b>
+  - [Python game development](https://github.com/TaiwoG1/)
+- <b>Education Course Registration System</b>
+  - [School Courses registration app](https://github.com/TaiwoG1)
+
  
 <h3> Certifications:</h2>
 
