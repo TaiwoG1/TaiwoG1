@@ -19,8 +19,8 @@
 
 - <b>Game of Nim: User and Computer interactive</b>
   - [Python game development](https://github.com/TaiwoG1/GameOfNim)
-- <b>Education Course Registration System</b>
-  - [School Courses registration app](https://github.com/TaiwoG1)
+- <b>Registration System</b>
+  - [Student registration app](https://github.com/TaiwoG1/StudentRegistrationSystem)
 
  
 <h3> Certifications:</h2>
