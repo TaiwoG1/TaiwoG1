@@ -26,6 +26,7 @@
 <h3> Certifications:</h2>
 
 - <b> Google Cybersecurity Professional </b>
+- <b> Qualys Endpoint Detection and Response specialist </b>
 
 <!--
 **TaiwoG1/TaiwoG1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
