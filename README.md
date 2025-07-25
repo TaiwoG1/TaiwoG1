@@ -27,6 +27,8 @@
 
 - <b> Google Cybersecurity Professional </b>
 - <b> Qualys Endpoint Detection and Response specialist </b>
+- <b> Qualys CyberSecurity Asset Management specialist </b>
+- <b> Qualys Policy and PCI Compliance specialist </b>
 
 <!--
 **TaiwoG1/TaiwoG1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
