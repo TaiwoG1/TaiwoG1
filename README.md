@@ -11,7 +11,7 @@
 - <b> SOC analyst End-point Attack Simulation (Home Lab)</b>
   - [Constructed, Monitored & Investigated real-time security incidents in a simulated SOC environment](https://github.com/TaiwoG1/SOCHomeLab)
 - <b> Threat Detection and Analysis (Phishing & Malware analysis) </b>
-  - [Social Engineering Phishing, and Network (Malware) analysis]https://github.com/TaiwoG1)
+  - [Social Engineering Phishing, and Network (Malware) analysis](https://github.com/TaiwoG1)
 - <b> Security Risk Assessment</b>
   - [Analyzed network layer communication using network protocol analyzer tool Wireshark and tcpdump](https://github.com/TaiwoG1/NetworkTrafficAnalysis-Wireshark1)
 - <b> Analysis of Network Hardening </b>
