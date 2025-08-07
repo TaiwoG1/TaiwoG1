@@ -4,13 +4,15 @@
 
 - <b> Cloud Threat Detection and Analysis</b>
   - [Microsoft Sentinel, Cloud-native SIEM analysis](https://github.com/TaiwoG1/CloudThreatDetectionAndAnalysis1)
-- <b>Vulnerability Management</b>
+- <b> Vulnerability Management</b>
   - [Reduced critical vulnerabilities by 100% using Tennable](https://github.com/TaiwoG1/VulnerabilityManagement1)
 - <b> Active Directory Home Lab</b>
   - [Active Directory and Internal Network Deployment](https://github.com/TaiwoG1/ActiveDirectoryLab1)
-- <b>SOC analyst End-point Attack Simulation Home Lab</b>
+- <b> SOC analyst End-point Attack Simulation (Home Lab)</b>
   - [Constructed, Monitored & Investigated real-time security incidents in a simulated SOC environment](https://github.com/TaiwoG1/SOCHomeLab)
-- <b>Security Risk Assessment</b>
+- <b> Threat Detection and Analysis (Phishing & Malware analysis) </b>
+  - [Social Engineering Phishing, and Network (Malware) analysis]https://github.com/TaiwoG1)
+- <b> Security Risk Assessment</b>
   - [Analyzed network layer communication using network protocol analyzer tool Wireshark and tcpdump](https://github.com/TaiwoG1/NetworkTrafficAnalysis-Wireshark1)
 - <b> Analysis of Network Hardening </b>
   - [Security risk assessment to analyze incidents](https://github.com/TaiwoG1)
