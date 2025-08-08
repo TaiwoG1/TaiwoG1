@@ -2,7 +2,7 @@
 
 <h2> Cybersecurity Projects:</h2>
 
-- <b> Threat Detection and Analysis (Phishing & Malware analysis) </b>
+- <b> Threat Detection and Analysis (Phishing & Malware) </b>
   - [Social Engineering and Network traffic analysis](https://github.com/TaiwoG1/ThreatDetectionAndAnalysis1)
 - <b> Active Directory Home Lab</b>
   - [Active Directory and Internal Network Deployment](https://github.com/TaiwoG1/ActiveDirectoryLab1)
