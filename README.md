@@ -30,7 +30,7 @@
 - <b> (ISC)2 Systems Security Certified Practitioner </b>
 - <b> Qualys Endpoint Detection and Response specialist </b>
 - <b> Qualys CyberSecurity Asset Management specialist </b>
-- <b> Qualys Policy and PCI Compliance specialist </b>
+- <b> Qualys Policy Compliance specialist </b>
 - <b> Google Cybersecurity Professional </b>
 
 <!--
