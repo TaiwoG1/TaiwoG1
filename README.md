@@ -31,6 +31,7 @@
 - <b> Qualys Endpoint Detection and Response specialist </b>
 - <b> Qualys CyberSecurity Asset Management specialist </b>
 - <b> Qualys Policy Compliance specialist </b>
+- <b> Qualys PCI Compliance specialist </b>
 - <b> Google Cybersecurity Professional </b>
 
 <!--
