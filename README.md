@@ -28,6 +28,7 @@
 <h3> Certifications:</h2>
 
 - <b> (ISC)2 Systems Security Certified Practitioner </b>
+- <b> Qualys Vulnerability Management Detection and Response specialist </b>
 - <b> Qualys Endpoint Detection and Response specialist </b>
 - <b> Qualys CyberSecurity Asset Management specialist </b>
 - <b> Qualys Policy Compliance specialist </b>
