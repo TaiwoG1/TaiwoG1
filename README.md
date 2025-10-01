@@ -27,7 +27,8 @@
  
 <h3> Certifications:</h2>
 
-- <b> (ISC)2 Systems Security Certified Practitioner </b>
+- <b> (ISC)2 Certified Information Systems Security Professional (CISSP) </b>
+- <b> (ISC)2 Systems Security Certified Practitioner (SSCP) </b>
 - <b> Qualys Vulnerability Management Detection and Response specialist </b>
 - <b> Qualys Endpoint Detection and Response specialist </b>
 - <b> Qualys CyberSecurity Asset Management specialist </b>
