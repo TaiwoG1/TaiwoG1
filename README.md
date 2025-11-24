@@ -2,8 +2,8 @@
 
 <h2> Cybersecurity Projects:</h2>
 
-- <b> SOC analyst End-point Attack Simulation (Home Lab)</b>
-  - [Constructed, Monitored & Investigated real-time security incidents in a simulated SOC environment](https://github.com/TaiwoG1/SOCHomeLab)
+- <b> End-point Attack Simulation (Home Lab)</b>
+  - [Constructed, Monitored & Investigated real-time security incidents in a simulated Home Lab environment](https://github.com/TaiwoG1/SOCHomeLab)
 - <b> Threat Detection and Analysis (Phishing & Malware) </b>
   - [Social Engineering and Network traffic analysis](https://github.com/TaiwoG1/ThreatDetectionAndAnalysis1)
 - <b> Active Directory Home Lab</b>
