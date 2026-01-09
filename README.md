@@ -12,6 +12,8 @@
   - [Microsoft Sentinel, Cloud-native SIEM analysis](https://github.com/TaiwoG1/CloudThreatDetectionAndAnalysis1)
 - <b> Vulnerability Management</b>
   - [Reduced critical vulnerabilities by 100% using Tennable](https://github.com/TaiwoG1/VulnerabilityManagement1)
+- <b> Entra ID IAM</b>
+  - [Constructed IAM models using Entra ID, enhancing organization security posture](https://github.com/TaiwoG1)
 - <b> Network Traffic Assessment</b>
   - [Analyzed network layer communication using network protocol analyzer tool Wireshark and tcpdump](https://github.com/TaiwoG1/NetworkTrafficAnalysis-Wireshark1)
 - <b> Analysis of Network Hardening </b>
