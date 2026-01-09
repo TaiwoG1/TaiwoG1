@@ -31,6 +31,8 @@
 
 - <b> Associate of (ISC)2 (Certified Information Systems Security Professional, CISSP) </b>
 - <b> (ISC)2 Systems Security Certified Practitioner (SSCP) </b>
+- <b> Microsoft Certified: Identity and Access Administrator Associate </b>
+- <b> Microsoft Certified: Azure Fundamentals </b>
 - <b> Qualys Vulnerability Management Detection and Response specialist </b>
 - <b> Qualys Endpoint Detection and Response specialist </b>
 - <b> Qualys CyberSecurity Asset Management specialist </b>
