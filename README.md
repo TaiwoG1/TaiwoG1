@@ -4,7 +4,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:06FFD4,50:3B6CFF,100:9D4CFF&height=200&section=header&text=Taiwo%20&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Security/IAM/Operations/Cloud%20Engineer%20|%20Computer%20Engineer&descSize=20&descColor=FFFFFF&descAlignY=60&animation=fadeIn)
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=600&lines=Architecting+Zero+Trust+Cloud+Foundations;Engineering+Automated+IAM+Governance+at+Scale;Optimizing+Modern+SecOps+Orchestration;Advancing+Proactive+Threat+Hunting+and+Detection" alt="Expertise" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=3000&pause=2000&color=06B6D4&center=true&vCenter=true&random=false&width=600&lines=Architecting+Zero+Trust+Cloud+Foundations;Engineering+Automated+IAM+Governance+at+Scale;Optimizing+Modern+SecOps+Orchestration;Advancing+Proactive+Threat+Hunting+and+Detection" alt="Expertise" />
   </p>
 
   <!--[![Email](https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tgbadamosi05@gmail.com)-->
