@@ -15,7 +15,7 @@
 
 ## Security Engineer/Cloud Engineer
 
-I am a Security Engineer first and a Cloud Architect at heart, building resilient, production-grade security infrastructures that protect complex digital assets. My work bridges the gap between identity governance and proactive defense, from securing virtualized environments to hardening large-scale cloud ecosystems.
+I am a Security Engineer and Cloud Architect, building resilient, production-grade security infrastructure to protect complex digital assets. My work bridges the gap between identity governance and proactive defense, from securing virtualized environments to hardening large-scale cloud ecosystems.
 
 - **Cloud Architecture & IAM Governance** – Architecting Zero Trust frameworks, fine-grained access control, and automated identity lifecycles across multi-cloud environments.
 - **Threat Detection & Incident Response** – Engineering advanced detection logic, SIEM/SOAR orchestration, and real-time monitoring for cloud-native threats.
