@@ -24,6 +24,7 @@ I am a Security Engineer and Cloud Architect, building resilient, production-gra
 - **SecOps & Automation** – Streamlining security operations through Infrastructure as Code (Bicep) and continuous security validation.
 
 *Currently focused on bridging the gap between identity intelligence and automated threat hunting to enable self-healing, secure cloud infrastructures.*
+
 ---
 
 <h2> Cybersecurity Projects:</h2>
