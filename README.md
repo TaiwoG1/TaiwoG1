@@ -34,7 +34,7 @@ I am a Security Engineer and Cloud Architect, building resilient, production-gra
 - <b> Zero-Trust IAM Implementation - Identity Governance and Access Management</b>
   - [Constructed IAM models and enterprise using Entra ID, enhancing organization security posture](https://github.com/TaiwoG1/EntraIDiam)
 - <b> Hybrid Cloud SIEM/SOAR Deployment, Log Ingestion & Threat Detection</b>
-  - [Architected a hybrid SIEM/SOAR environment for log ingestion, threat hunting, and automated incident response using Microsoft Sentinel](https://github.com/TaiwoG1/HybridCloudSIEMSOARDeployment)
+  - [Architected a hybrid SIEM/SOAR environment for log ingestion, threat hunting, and automated incident response](https://github.com/TaiwoG1/HybridCloudSIEMSOARDeployment)
 - <b> Cloud Threat Detection and Analysis</b>
   - [Microsoft Sentinel, Cloud-native SIEM analysis](https://github.com/TaiwoG1/CloudThreatDetectionAndAnalysis1)
 - <b> End-point Attack Simulation (Home Lab)</b>
