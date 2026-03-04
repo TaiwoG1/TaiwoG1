@@ -54,7 +54,7 @@ I am a Security Engineer and Cloud Architect, building resilient, production-gra
 - <b> Azure Hub-and-Spoke Network Architecture & Traffic Orchestration</b>
   - [Hub-and-Spoke network architecture, traffic orchestration, network diagnostics, and monitoring](https://github.com/TaiwoG1/AzureHubAndSpoke)
 - <b> Cloud Storage, Backups, Business Continuity, and Disaster Recovery architecture</b>
-  - [Architected cloud secure cloud storage, including backups and disaster recovery utilizing Azure](https://github.com/TaiwoG1)
+  - [Architected cloud secure cloud storage, including backups and disaster recovery utilizing Azure](https://github.com/TaiwoG1/AzureStorageBackupBCDR)
 - <b> Cloud Web Servers, Web apps, and Load Balancers orchestration</b>
   - [Configured web servers, and web apps, utilizing load balancers, secure traffic handling, and scalability](https://github.com/TaiwoG1/)
 
