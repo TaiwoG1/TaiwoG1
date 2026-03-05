@@ -40,7 +40,7 @@ I am a Security Engineer and Cloud Architect, building resilient, production-gra
 - <b> End-point Attack Simulation (Home Lab)</b>
   - [Constructed, Monitored & Investigated real-time security incidents in a simulated Home Lab environment](https://github.com/TaiwoG1/SOCHomeLab)
 - <b> Threat Detection and Analysis (Phishing & Malware) </b>
-  - [Social Engineering and Network traffic analysis](https://github.com/TaiwoG1/ThreatDetectionAndAnalysis1)
+  - [Social Engineering and Network traffic analysis (wireshark)](https://github.com/TaiwoG1/ThreatDetectionAndAnalysis1)
 - <b> Vulnerability Management</b>
   - [Reduced critical vulnerabilities by 100% using Tennable](https://github.com/TaiwoG1/VulnerabilityManagement1)
 - <b> Network Traffic Assessment</b>
