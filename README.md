@@ -73,6 +73,7 @@ I am a Security Engineer and Cloud Architect, building resilient, production-gra
 - <b> (ISC)2 Systems Security Certified Practitioner (SSCP) </b>
 - <b> Microsoft Certified: Identity and Access Administrator Associate (SC-300) </b>
 - <b> Microsoft Certified: Security Operations Analyst Associate (SC-200) </b>
+- <b> Microsoft Certified: Azure Administrator Associate </b>
 - <b> Microsoft Certified: Azure Fundamentals </b>
 - <b> Qualys Vulnerability Management Detection and Response specialist </b>
 - <b> Qualys Endpoint Detection and Response specialist </b>
