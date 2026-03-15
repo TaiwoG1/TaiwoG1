@@ -71,6 +71,7 @@ I am a Security Engineer and Cloud Architect, building resilient, production-gra
 
 - <b> Associate of (ISC)2 (Certified Information Systems Security Professional, CISSP) </b>
 - <b> (ISC)2 Systems Security Certified Practitioner (SSCP) </b>
+- <b> Microsoft Certified: Azure Solutions Architect Expert </b>
 - <b> Microsoft Certified: Identity and Access Administrator Associate (SC-300) </b>
 - <b> Microsoft Certified: Security Operations Analyst Associate (SC-200) </b>
 - <b> Microsoft Certified: Azure Administrator Associate </b>
