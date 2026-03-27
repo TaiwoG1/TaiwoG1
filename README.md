@@ -35,8 +35,8 @@ I am a Security Engineer and Cloud Architect, building resilient, production-gra
   - [Constructed IAM models and enterprise using Entra ID, enhancing organization security posture](https://github.com/TaiwoG1/EntraIDiam)
 - <b> Hybrid Cloud SIEM/SOAR Deployment, Log Ingestion & Threat Detection</b>
   - [Architected a hybrid SIEM/SOAR environment for log ingestion, threat hunting, and automated incident response](https://github.com/TaiwoG1/HybridCloudSIEMSOARDeployment)
-- <b> Cloud Threat Detection and Analysis 2</b>
-  - [Microsoft Sentinel, Cloud-native SIEM analysis](https://github.com/TaiwoG1/CloudThreatDetectionAndAnalysis1)
+- <b> Cloud Threat Detection and Analysis - Azure Honeypot</b>
+  - [Microsoft Sentinel, Cloud-native SIEM threat detection, analysis and mitigation](https://github.com/TaiwoG1/CloudThreatDetectionAndAnalysis1)
 - <b> End-point Attack Simulation (Home Lab)</b>
   - [Constructed, Monitored & Investigated real-time security incidents in a simulated Home Lab environment](https://github.com/TaiwoG1/SOCHomeLab)
 - <b> Threat Detection and Analysis (Phishing & Malware) </b>
