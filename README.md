@@ -35,14 +35,14 @@ I am a Security Engineer and Cloud Architect, building resilient, production-gra
   - [Constructed IAM models and enterprise using Entra ID, enhancing organization security posture](https://github.com/TaiwoG1/EntraIDiam)
 - <b> Hybrid Cloud SIEM/SOAR Deployment, Log Ingestion & Threat Detection</b>
   - [Architected a hybrid SIEM/SOAR environment for log ingestion, threat hunting, and automated incident response](https://github.com/TaiwoG1/HybridCloudSIEMSOARDeployment)
-- <b> Cloud Threat Detection and Analysis - Azure Honeypot</b>
-  - [Microsoft Sentinel, Cloud-native SIEM threat detection, analysis and mitigation](https://github.com/TaiwoG1/CloudThreatDetectionAndAnalysis1)
-- <b> End-point Attack Simulation (Home Lab)</b>
-  - [Constructed, Monitored & Investigated real-time security incidents in a simulated Home Lab environment](https://github.com/TaiwoG1/SOCHomeLab)
 - <b> Threat Detection and Analysis (Phishing & Malware) </b>
   - [Social Engineering and Network traffic analysis (wireshark)](https://github.com/TaiwoG1/ThreatDetectionAndAnalysis1)
+- <b> End-point Attack Simulation (Home Lab)</b>
+  - [Constructed, Monitored & Investigated real-time security incidents in a simulated Home Lab environment](https://github.com/TaiwoG1/SOCHomeLab)
 - <b> Vulnerability Management</b>
   - [Reduced critical vulnerabilities by 100% using Tennable](https://github.com/TaiwoG1/VulnerabilityManagement1)
+- <b> Cloud Threat Detection and Analysis - Azure Honeypot</b>
+  - [Microsoft Sentinel, Cloud-native SIEM threat detection, analysis and mitigation](https://github.com/TaiwoG1/CloudThreatDetectionAndAnalysis1)
 - <b> Network Traffic Assessment</b>
   - [Analyzed network layer communication using network protocol analyzer tool Wireshark and tcpdump](https://github.com/TaiwoG1/NetworkTrafficAnalysis-Wireshark1)
 - <b> Analysis of Network Hardening </b>
