@@ -57,7 +57,7 @@ I am a Security Engineer and Cloud Architect, building resilient, production-gra
   - [Architected cloud secure cloud storage, including backups and disaster recovery utilizing Azure](https://github.com/TaiwoG1/AzureStorageBackupBCDR)
 - <b> High-Availability Web Infrastructure and Scalable Web Apps</b>
   - [Configured Web Servers, and Web apps, utilizing load balancers, secure traffic handling, and scalability](https://github.com/TaiwoG1/AzureWebArchitecture)
-- <b> Terraform Cloud Infrastructure Automation: Multi-Tier Web Stack</b>
+- <b> Terraform Automation: Multi-Tier Web Stack Cloud Deployment</b>
   - [Configured Terraform to automate deployment of scalable Azure resources, utilizing Web Servers, load balancers](https://github.com/TaiwoG1/TerraformInfrastructureAutomation-MultiTierWebStack)
 
 
