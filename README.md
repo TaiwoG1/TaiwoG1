@@ -64,7 +64,7 @@ I am a Security Engineer and Cloud Architect, building resilient, production-gra
 <h2> AWS:</h2>
 
 - <b> Terraform Automation: AWS Multi-Region Business Continuity/Disaster Recovery (In Progress) </b>
-  - [Configuring Terraform to automate deployment of scalable AWS resources, for backups, replication and failover](https://github.com/TaiwoG1/)
+  - [Configuring Terraform to automate deployment of scalable AWS resources, for backups, replication and failover](https://github.com/TaiwoG1/AWS_DR_Terraform)
 
 
 <h2> Software Development Projects:</h2>
